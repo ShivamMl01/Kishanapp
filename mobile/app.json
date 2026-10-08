@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "KisanQueue",
+    "slug": "kisanqueue",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

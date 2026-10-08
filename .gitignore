@@ -1,0 +1,30 @@
+
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/.env
+backend/instance/
+
+# Python
+*.pyc
+__pycache__/
+
+# Secrets
+.env
+.env.*
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Expo / React Native
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
